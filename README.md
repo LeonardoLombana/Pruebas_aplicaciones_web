@@ -43,8 +43,7 @@ Las pruebas de diseño deben realizarse en ambos entornos chrome y mozilla a la 
 7. Visualizar el archivo correspondiente a informe de errores.
 
 > [!IMPORTANT]
-> 
-## Conclusiones:
+> Conclusiones:
 En términos generales visualmente es agradable a la vista, sus opciones de reservar un automóvil son sencillas de identificar y permite guiarse fácilmente desde el panel de direcciones hasta llegar al momento de hacer la reserva.
 Los gráficos e iconos son fáciles de entender a pesar de que no son muy detallados permiten darse una idea de que es lo que se está buscando o en qué componente se está ubicado, esto permite que la navegación en la aplicación sea sencilla y práctica.
 Durante las pruebas se logró auditar aunque no todo pero si una parte importante del diseño y parte del funcionamiento lógico de la aplicación en este paso introductorio en el entorno de la aplicación se debe resaltar que aún se encuentran varios fallos en sus funcionamientos como por ejemplo las validaciones en los campos de registro de información como mètodos de pago puesto que en el momento de las pruebas no se ejecutaron del todo satisfactoriamente.
